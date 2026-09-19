@@ -5,7 +5,7 @@ Sistema web de gestion de minimarket con delivery propio.
 ## Integrantes
 - Conislla Lavado Cesar Jesus - U23264049
 - [Nombre 2] - [codigo]
-- [Nombre 3] - [codigo]
+- Torres Bejar Gabriel Omar - U22215245
 
 ## Modulos
 - apps/users
